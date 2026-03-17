@@ -1,0 +1,30 @@
+python-nmap==0.7.1
+requests==2.31.0
+httpx==0.25.0
+
+# DNS & Subdomain
+dnspython==2.4.2
+python-whois==0.8.0
+
+# Async & Speed
+asyncio
+aiohttp==3.9.1
+
+# Reporting
+jinja2==3.1.2
+rich==13.6.0
+colorama==0.4.6
+
+# Security & Scanning
+shodan==1.31.0
+python-owasp-zap-v2.4==0.0.21
+
+# Data & Export
+pandas==2.1.3
+tabulate==0.9.0
+
+# Utilities
+tqdm==4.66.1
+python-dotenv==1.0.0
+pyfiglet==1.0.2
+termcolor==2.4.0
